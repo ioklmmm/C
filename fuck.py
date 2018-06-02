@@ -1,3 +1,3 @@
-print("fuck you")
+print()
 a=b
 
